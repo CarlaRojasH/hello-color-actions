@@ -1,4 +1,4 @@
-const hello = () => "Hola Mundo, desde Peru!";
+const hello = () => "Hola, mundo, desde Lima Peru!";
 console.log(hello());
 exports.hello = hello;
 
